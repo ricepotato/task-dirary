@@ -1,5 +1,19 @@
 # Task Diary
 
+## 2024-01-09
+
+### 해야할 일
+
+- parameter store 에서 데이터를 가져와 앱에 적용 기능 구현
+
+### 어제 한 일
+
+- parameter store 리서치
+- WaaS Users 페이지 구현
+- Waas Logger 개선
+  - logstash logger 제거
+  - 개발중, 운영중일 때 logger format 이 다르게 출력되게 변경
+
 ## 2024-01-08
 
 ### 해야할 일
