@@ -1,5 +1,20 @@
 # Task Diary
 
+## 2024-01-10
+
+### 해야할 일
+
+- parameter store 에서 데이터를 가져와 ecs 에서 사용하는 방법 연구
+  - parameter store 의 값을 암호화 하고 복호화 해서 환경변수에 추가할 수 있으면 좋을듯
+
+### 어제 한 일
+
+- parameter store 에서 값을 가져와 amplify 에서 사용하는 방법
+  - amplify 에서 service role 에 권한을 주어도 IAM 권한을 얻을 수 없음
+  - amplify service role 은 lambda edge runtime 에 적용되지 않음
+  - AWS_ACCESS_KEY_ID, AWS_SECRET_ACCESS_KEY 를 환경변수에 추가하는 방법으로 가능
+  - amplify 에서는 AWS_ 로 시작하는 환경변수를 직접 추가할 수 없음
+
 ## 2024-01-09
 
 ### 해야할 일
