@@ -1,5 +1,21 @@
 # Task Diary
 
+## 2024-01-11
+
+### 해야할 일
+- waas 개발
+  - organizations 화면 구현
+- ethanol 코드 리뷰(오프라인)
+- vpc 내 ecs 보안 설정 리서치
+
+### 어제 한 일
+
+- waas super admin project 화면 구현
+- waas 코드 리뷰(온라인)
+- ethanol 코드 리뷰(온라인)
+- parameter store 에서 데이터를 가져와 ecs 에서 사용하는 방법 연구
+
+
 ## 2024-01-10
 
 ### 해야할 일
