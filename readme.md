@@ -1,5 +1,19 @@
 # Task Diary
 
+## 2024-01-12
+
+### 해야할 일
+- vpc 내 ecs 보안 설정 리서치
+- waas 코드리뷰 (오프라인)
+- NFT Viewer 이슈 확인 (AWW-179)
+
+### 어제 한 일
+- waas 개발
+  - organizations 화면 구현
+- ethanol 코드 리뷰(오프라인)
+- waas 코드 리뷰 (온라인)
+- vpc 내 ecs 보안 설정 리서치
+
 ## 2024-01-11
 
 ### 해야할 일
