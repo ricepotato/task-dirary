@@ -1,5 +1,20 @@
 # Task Diary
 
+## 2024-15-16
+
+### 해야할 일
+
+- vpc 내 ecs 보안 설정 리서치
+  - 테스트 app 배포 인터넷접근/ssm 접근 가능한지 확인
+- AWW-182 merge, dev/stg 환경에 patch
+
+### 어제 한 일
+
+- NFT Viewer 패치/모니터링 (0.8.4)
+- AWW-182 skeleton, placeholder 추가 작업
+- WaaS 일정 회의
+
+
 ## 2024-01-15
 
 ### 해야할 일
