@@ -1,9 +1,28 @@
 # Task Diary
 
+## 2024-15-18
+
+### 해야할 일
+- waas 개발
+- vpc 내 ecs 보안 설정 리서치
+ - 테스트 app 배포 인터넷접근/ssm 접근 가능한지 확인
+
+### 어제 한 일
+
+- waas 개발
+- waas 코드리뷰
+  - fix/billing 코드리뷰
+  - WAAS-9 코드리뷰
+- vpc 내 ecs 보안 설정 리서치
+ - 테스트 app 배포 인터넷접근/ssm 접근 가능한지 확인
+
 ## 2024-15-17
 
 ### 해야할 일
 - waas 개발
+- waas 코드리뷰
+  - fix/billing 코드리뷰
+  - WAAS-9 코드리뷰
 - vpc 내 ecs 보안 설정 리서치
  - 테스트 app 배포 인터넷접근/ssm 접근 가능한지 확인
 
