@@ -1,5 +1,39 @@
 # Task Diary
 
+## 장기 과제
+- NFT Viewer
+- 그누보드 6 소스보기
+
+## 2024-01-23
+
+### 해야할 일
+- waas
+  - users 목록 보기 기능 구현
+  - waas 코드리뷰
+  - waas 회의
+
+### 어제 한 일
+- waas 개발
+ - organizations 생성 기능 구현
+ - ogranizations 상세 보기 구현
+ - ogranizations 수정 기능 구현
+- waas 코드리뷰
+
+## 2024-01-22
+
+### 해야할 일
+
+- waas 개발
+ - organizations 생성 기능 구현
+ - ogranizations 상세 보기 구현
+ - ogranizations 수정 기능 구현
+- waas 코드리뷰
+
+### 어제 한 일
+- waas 개발
+ - organizations 생성 기능 구현
+- waas 오프라인 코드 리뷰
+
 ## 2024-01-19
 
 ### 해야할 일
