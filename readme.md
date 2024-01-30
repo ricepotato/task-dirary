@@ -1,8 +1,24 @@
 # Task Diary
 
 ## 장기 과제
-- NFT Viewer
+- NFT Viewer lambda
+- indexer
+- myclipboard
 - 그누보드 6 소스보기
+
+## 2024-01-30
+
+### 해야할 일
+
+- waas 개발
+  - waas logging / test
+  - waas code review
+
+### 어제한 일
+
+- waas 개발
+  - user 상세 보기 기능 개발
+  - user 수정 기능 개발
 
 ## 2024-01-29
 
