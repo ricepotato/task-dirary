@@ -4,7 +4,10 @@
 - NFT Viewer lambda
 - indexer
 - myclipboard
+  - android app 출시하기 
 - 그누보드 6 소스보기
+- rust 공부하기
+- unity 공부하기
 
 ## 2024-02-02
 
