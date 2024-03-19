@@ -9,6 +9,28 @@
 - rust 공부하기
 - unity 공부하기
 
+## toss
+
+django orm
+
+sqlalchemy
+ - transaction
+ - Lock
+ - n + 1
+
+drf
+ - serializer
+ - unittest (db)
+
+
+nextjs
+ - 13,14 차이, 
+ - page/app router 차이
+
+
+git
+ - rebase
+
 ## 2024-02-02
 
 ### 해야할 일
