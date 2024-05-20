@@ -16,6 +16,7 @@
 - AWS spot instance
 - query plan
 - goCD
+- rust
 
 ## 읽을거리
 - Pyinfra: 파이썬을 활용한 인프라 자동화 도구 : https://news.hada.io/topic?id=14586&utm_source=slack&utm_medium=bot&utm_campaign=T02SUP3C1HT
@@ -24,6 +25,9 @@
 - Python을 학습하기에 좋은 고품질 스크립트/작은 라이브러리는? : https://news.hada.io/topic?id=14446&utm_source=slack&utm_medium=bot&utm_campaign=T02SUP3C1HT
 - https://www.conventionalcommits.org/en/v1.0.0/#summary
 - https://github.com/googleapis/release-please
+
+### rust
+- https://rust-exercises.com/
 
 ## toss
 
