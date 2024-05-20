@@ -27,7 +27,13 @@
 - https://github.com/googleapis/release-please
 
 ### rust
+
+#### rust 학습 연습문제
 - https://rust-exercises.com/
+
+#### rust 로 작성된 경량 웹서버
+- https://news.hada.io/topic?id=14795&utm_source=slack&utm_medium=bot&utm_campaign=T02SUP3C1HT
+ 
 
 ## toss
 
