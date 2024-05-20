@@ -25,6 +25,7 @@
 - Python을 학습하기에 좋은 고품질 스크립트/작은 라이브러리는? : https://news.hada.io/topic?id=14446&utm_source=slack&utm_medium=bot&utm_campaign=T02SUP3C1HT
 - https://www.conventionalcommits.org/en/v1.0.0/#summary
 - https://github.com/googleapis/release-please
+- 가장 python 스러운 스프레트시트 : https://pyspread.gitlab.io/
 
 ### rust
 
