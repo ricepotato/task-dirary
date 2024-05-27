@@ -38,7 +38,10 @@
 
 ### stackflow : javascript 로 구현된 mobile navigation UI
 - https://github.com/daangn/stackflow
- 
+
+### design
+- 디자인 시스템 : https://www.inflearn.com/pages/infmation-64-20231017
+- 디지털 정부서비스 UI/UX 가이드라인 : https://uiux.egovframe.go.kr/guide/index.html
 
 ## toss
 
