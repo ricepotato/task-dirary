@@ -25,6 +25,7 @@
 - https://www.conventionalcommits.org/en/v1.0.0/#summary
 - https://github.com/googleapis/release-please
 - 가장 python 스러운 스프레트시트 : https://pyspread.gitlab.io/
+- https://notepadtab.com/
 
 ### rust
 
