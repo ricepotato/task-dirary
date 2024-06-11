@@ -36,6 +36,7 @@
 - https://news.hada.io/topic?id=14795&utm_source=slack&utm_medium=bot&utm_campaign=T02SUP3C1HT
 
 ### UI
+- https://www.npmjs.com/package/react-jazzicon
 
 ### stackflow : javascript 로 구현된 mobile navigation UI
 - https://github.com/daangn/stackflow
