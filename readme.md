@@ -17,7 +17,7 @@
 - query plan
 - goCD
 
-## 읽을거리
+## 읽을거리 / 링크
 - Pyinfra: 파이썬을 활용한 인프라 자동화 도구 : https://news.hada.io/topic?id=14586&utm_source=slack&utm_medium=bot&utm_campaign=T02SUP3C1HT
 - 당신이 기술 코파운더를 찾을 수 없는 이유 : https://news.hada.io/weekly/202418?utm_source=slack&utm_medium=bot&utm_campaign=T02SUP3C1HT
 - Latency numbers every frontend developer should know : https://vercel.com/blog/latency-numbers-every-web-developer-should-know
@@ -36,6 +36,7 @@
 - https://news.hada.io/topic?id=14795&utm_source=slack&utm_medium=bot&utm_campaign=T02SUP3C1HT
 
 ### UI
+- https://ui.shadcn.com/
 - https://www.npmjs.com/package/react-jazzicon
 
 ### stackflow : javascript 로 구현된 mobile navigation UI
@@ -45,7 +46,7 @@
 - 디자인 시스템 : https://www.inflearn.com/pages/infmation-64-20231017
 - 디지털 정부서비스 UI/UX 가이드라인 : https://uiux.egovframe.go.kr/guide/index.html
 
-## toss
+## 조사
 
 django orm
 
