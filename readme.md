@@ -38,6 +38,7 @@
 ### UI
 - https://www.npmjs.com/package/react-jazzicon
 - https://clipbook.app/
+- https://graphmark.framer.website/
 
 #### shadcn
 - https://ui.shadcn.com/
