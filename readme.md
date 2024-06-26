@@ -27,6 +27,10 @@
 - 가장 python 스러운 스프레트시트 : https://pyspread.gitlab.io/
 - https://notepadtab.com/
 
+### blog
+- https://gohugo.io/
+- https://stulle123.github.io/
+
 ### rust
 
 #### rust 학습 연습문제
